@@ -17,7 +17,7 @@ I love both the **hard stuff** (RAG pipelines, GenAI systems, AI Agents) and the
 ---
 
 ### 💡 What I Work On
-- Leading AI & Growth at **Team System / Mikrogrup**
+- Leading AI & Growth(Analytics) at **Team System / Mikrogrup**
 - Building **AI Agents** for support, sales, and operations  
 - Driving **Product-Led Growth (PLG)** across SaaS ecosystems  
 - Experimenting with **LLMs, RAGs, and analytics-driven decisions**
