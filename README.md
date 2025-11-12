@@ -3,7 +3,7 @@
 **Product Manager | AI Enthusiast | Builder of Smart Systems**
 
 📍 Ankara, TR (EMEA)  
-📫 [LinkedIn](https://www.linkedin.com/in/ilkan-yildirim) • [Medium](https://medium.com/@ilkan89) • [GitHub](https://github.com/ilkan-yildirim) • ✉️ ilkan89@gmail.com  
+📫 [LinkedIn](https://www.linkedin.com/in/ilkanyildirim) • [Medium](https://ilkanyildirim.medium.com/) • [GitHub](https://github.com/ilkan) • ✉️ ilkan89@gmail.com  
 
 ---
 
@@ -42,7 +42,7 @@ I love both the **hard stuff** (RAG pipelines, GenAI systems, AI Agents) and the
 
 ### 🎓 Education
 - 🧮 **M.S. Computer Engineering** — METU  
-- 🔍 **M.S. Computer Forensics** — Ankara University *(Alexa/Assistant Forensics, 19 citations)*  
+- 🔍 **M.S. Computer Forensics** — Ankara University *(Alexa/Assistant Forensics, 20 citations)*  
 - 📊 **B.S. Mathematics** — METU  
 
 ---
@@ -60,5 +60,5 @@ CrossFit • Metal Music • Vibe Coding
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilkan-yildirim&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkan-yildirim&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilkan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkan&layout=compact&theme=radical)
