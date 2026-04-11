@@ -1,6 +1,6 @@
 # 👋 Hi, I'm İlkan Yıldırım  
 
-**Product Manager | AI Enthusiast | Builder of Smart Systems**
+**AI Lead | Product Manager | AI Enthusiast | Builder of Smart Systems**
 
 📍 Ankara, TR (EMEA)  
 📫 [LinkedIn](https://www.linkedin.com/in/ilkanyildirim) • [Medium](https://ilkanyildirim.medium.com/) • [GitHub](https://github.com/ilkan) • ✉️ ilkan89@gmail.com  
@@ -42,7 +42,7 @@ I love both the **hard stuff** (RAG pipelines, GenAI systems, AI Agents) and the
 
 ### 🎓 Education
 - 🧮 **M.S. Computer Engineering** — METU  
-- 🔍 **M.S. Computer Forensics** — Ankara University *(Alexa/Assistant Forensics, 20 citations)*  
+- 🔍 **M.S. Computer Forensics** — Ankara University *(Alexa/Assistant Forensics, 21 citations)*  
 - 📊 **B.S. Mathematics** — METU  
 
 ---
